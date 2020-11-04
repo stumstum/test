@@ -1,2 +1,2 @@
 print ("caonima")
-print
+print("fuckworld")
